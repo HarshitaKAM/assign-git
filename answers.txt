@@ -4,7 +4,10 @@ If we do not ignore such files, the repository will contain unnecessary files an
 For java project, files to be ignored can be:
 -package files such as .jar, .zip, .war etc.
 -bytcode compiled files such as .class
+LOG Files:
 -log files like .log
+
+IDE specific files:
 -IDE specific files like .classpath .project etc in Eclipse.
 
 2)What does fast-forward in Git mean?
