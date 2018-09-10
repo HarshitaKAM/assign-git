@@ -14,4 +14,4 @@ Ans: Fast-forward i s a kind of merge that Git performs when a branch is ahead o
 Ans: To protect the master we should have different branches. In a team when many people are working on different modules, it is important that task should be performed in different branches so as not to hamper the work of other team members. If someone commits a faulty code in the master, the entire project will affected and will create confusion and iffeciency amongst the team.
 
 4)In a project how many remote Git repositories do you usually have?
-Ans: Ideally a project should have just one git repository. That repository can have multiple branches allowing multiple people to work on it.
+Ans: Ideally a project should have just one git repository. That repository can have multiple branches allowing multiple people to work on it for multiple users.
